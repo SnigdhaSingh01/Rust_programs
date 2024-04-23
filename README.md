@@ -34,8 +34,10 @@ To run Rust code, here are few IDE recommendations:
 
 5. **Eclipse with the RustDT Plugin**: Eclipse is a widely used IDE with a rich set of features. The RustDT plugin adds support for Rust development in Eclipse, including features like syntax highlighting and code navigation.
 
+
 ###
 CONTRIBUTING
+###
 
 **Contributions are welcome from the community.**
 

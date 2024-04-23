@@ -1,7 +1,8 @@
+#
 This repository contains a collection of Rust programs solving various algorithmic problems and
 demonstrating different concepts. Below is a brief overview of the programs included in
 this repository, as follows.
-
+###
 1.Pallindrome checker(pallindrome.rs)
 Implement a function that checks whether a given string is a palindrome or not.
 2.First occurance of index(indexoccirance.rs)

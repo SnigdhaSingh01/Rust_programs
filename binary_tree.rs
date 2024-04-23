@@ -1,4 +1,4 @@
-//8.Given a binary tree, implement a function that returns the maximum depth of the tree.
+8.Given a binary tree, implement a function that returns the maximum depth of the tree.
 
 use std::cmp;
 
@@ -42,5 +42,3 @@ fn main() {
     let depth = max_depth(Some(&Box::new(root)));
     println!("Maximum depth of the binary tree: {}", depth);
 }
-
-

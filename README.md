@@ -4,18 +4,18 @@ demonstrating different concepts. Below is a brief overview of the programs incl
 this repository, as follows.**
 ###
 
-**1.Pallindrome checker(pallindrome.rs)**
-**2.First occurance of index(indexoccirance.rs)**
-**3.Shortest Word(shortest_word.rs)**
-**4.Prime/Non prime Checker(prime_non_prime.rs)**
-**5.Median of an array(median_of_arrays.rs)**
-**6.Longest CommonPrefix(long_common_prefix.rs)**
-**7.Kth Smallest Element(kth_smallest.rs)**
-**8.Binary Tree Implementation(binary_tree.rs)**
-**9.String reversal(reverse_string.rs)**
-**10.Prime/Non Prime Checker(prime_nonprime.rs)**
-**11.Sorted Array Merger(merge_two_arrays.rs)**
-**12.Find the maximum subarray sum in Rust(max_subaray_sum.rs)**
+1.Pallindrome checker(pallindrome.rs)
+2.First occurance of index(indexoccirance.rs)
+3.Shortest Word(shortest_word.rs)
+4.Prime/Non prime Checker(prime_non_prime.rs)
+5.Median of an array(median_of_arrays.rs)
+6.Longest CommonPrefix(long_common_prefix.rs)
+7.Kth Smallest Element(kth_smallest.rs)
+8.Binary Tree Implementation(binary_tree.rs)
+9.String reversal(reverse_string.rs)
+10.Prime/Non Prime Checker(prime_nonprime.rs)
+11.Sorted Array Merger(merge_two_arrays.rs)
+12.Find the maximum subarray sum in Rust(max_subaray_sum.rs)
 
 
 ####
@@ -36,7 +36,7 @@ To run Rust code, here are few IDE recommendations:
 
 ###
 ###
-CONTRIBUTING
+**CONTRIBUTING**
 ###
 
 **Contributions are welcome from the community.**
